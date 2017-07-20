@@ -19,7 +19,7 @@
   "dependencies": {
     "es6-promise": "^2.3.0",
     "fs-extra-promise": "^0.2.0",
-    "istanbul": "^0.3.17",
+    "istanbul": "0.4.5",
     "mkdirp": "^0.5.1"
   },
   "devDependencies": {
